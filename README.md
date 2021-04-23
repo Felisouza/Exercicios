@@ -10,3 +10,4 @@ Listas com todos os exercícios desse repositório:
 [Python Brasil - Estrutura sequencial](https://wiki.python.org.br/EstruturaSequencial)  
 [Python Brasil - Estrutura de decisão](https://wiki.python.org.br/EstruturaDeDecisao)  
 [Python Brasil - Estrutura de repetição](https://wiki.python.org.br/EstruturaDeDecisao)  
+[Code Wars - Katas](https://www.codewars.com/kata/)
